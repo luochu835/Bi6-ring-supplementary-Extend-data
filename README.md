@@ -1,2 +1,2 @@
-# Bi6-ring-supplementary-data
-Supplementary data for the Bi6 ring study
+# Bi6-ring-supplementary-Extend-data
+Supplementary Extend data for the Bi6 ring study
